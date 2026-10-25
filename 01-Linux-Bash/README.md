@@ -439,4 +439,3 @@ Here, `>>` appends standard output and `2>&1` also sends error messages into the
 
 <sub>Linux commands can vary by distribution, privileges, and installed utilities. Practice administrative commands in a disposable VM or lab environment.</sub>
 
-**Acknowledgment:** This guide expands on the original Linux command collection from [farzeen-ali](https://github.com/farzeen-ali/Linux-Commands-for-DevOps-Engineers); the structure, explanations, and scripting examples have been extended for a general Linux audience.
